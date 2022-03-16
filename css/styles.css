@@ -33,6 +33,7 @@ body {
         width: 1200px;
         margin: 0 auto;
 }
+/* header qismi */
 .header {
         width: 100%;
         position: fixed;
@@ -84,6 +85,9 @@ body {
         font-size: 18px;
         color: #000000;
 }
+/* header qismi */
+/* main qismi */
+/* learn */
 .learn {
         position: relative;
         padding-top: 55px;
@@ -144,6 +148,8 @@ body {
         font-weight: 400;
         color: #FFFFFF;
 }
+/* learn */
+/* sikll */
 .skills {
         margin-top: 115px;
         text-align: center;
@@ -208,6 +214,9 @@ body {
 .margin {
         margin-top: 55px;
 }
+.margin__ {
+        margin-top: -10px;
+}
 .sikll_link {
         text-decoration: none;
         font-family: 'Poppins';
@@ -254,6 +263,8 @@ body {
 .listening_img {
         margin-left: 100px;
 }
+/* sikll */
+/* about */
 .about {
         display: flex;
         justify-content: space-between;
@@ -302,6 +313,8 @@ body {
         font-size: 20px;
         color: #8F95A5;
 }
+/* about */
+/* pricing */
 .pricing {
         display: flex;
         align-items: center;
@@ -362,6 +375,8 @@ body {
         width: 250px;
         height: 250px;
 }
+/* pricing */
+/* contact */
 .contact {
         display: flex;
         flex-direction: row-reverse;
@@ -398,12 +413,15 @@ body {
         background: #263238;
         border-radius: 8px; 
 }
+/* contact */
+/* main qismi */
 .line {
         width: 1200px;
         height: 1px;
         background: #C4C4C4;
         color: #C4C4C4;
 }
+/* footer */
 footer {
         display: flex;
         justify-content: space-between;
@@ -426,3 +444,4 @@ footer {
         font-size: 16px;
         color: #8F95A5;
 }
+/* footer */
